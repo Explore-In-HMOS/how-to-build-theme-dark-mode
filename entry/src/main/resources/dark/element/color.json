@@ -1,0 +1,25 @@
+{
+  "color": [
+    { "name": "app_bg_primary",              "value": "#FF000000" },
+    { "name": "app_font_primary",            "value": "#E5FFFFFF" },
+    { "name": "app_font_secondary",          "value": "#66FFFFFF" },
+    { "name": "app_brand",                   "value": "#FF317AF7" },
+
+    { "name": "watchface_divider",           "value": "#1AFFFFFF" },
+
+    { "name": "btn_theme_normal",            "value": "#FF317AF7" },
+    { "name": "btn_theme_normal_dark",       "value": "#FF317AF7" },
+    { "name": "btn_theme_pressed",           "value": "#CC317AF7" },
+    { "name": "btn_theme_pressed_dark",      "value": "#CC317AF7" },
+    { "name": "btn_theme_disabled",          "value": "#FF3A3A3A" },
+    { "name": "btn_font_on_color",           "value": "#FFFFFFFF" },
+    { "name": "btn_font_disabled",           "value": "#66FFFFFF" },
+
+    { "name": "arc_btn_privacy_bg",          "value": "#FFDB6B42" },
+    { "name": "arc_btn_privacy_inactive_bg", "value": "#FF2C2F38" },
+    { "name": "arc_btn_font",               "value": "#FFFFFFFF" },
+
+    { "name": "panel_bg",                    "value": "#E6000000" },
+    { "name": "heart_rate_icon",             "value": "#FFEF5350" }
+  ]
+}

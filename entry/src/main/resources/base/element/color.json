@@ -1,0 +1,84 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "base_background_gradient_end",
+      "value": "#FF000000"
+    },
+    {
+      "name": "base_background_gradient_start",
+      "value": "#FF000000"
+    },
+    {
+      "name": "app_bg_primary",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "app_font_primary",
+      "value": "#E5000000"
+    },
+    {
+      "name": "app_font_secondary",
+      "value": "#66000000"
+    },
+    {
+      "name": "app_brand",
+      "value": "#FF0A59F7"
+    },
+    {
+      "name": "watchface_divider",
+      "value": "#1A000000"
+    },
+    {
+      "name": "btn_theme_normal",
+      "value": "#FF0A59F7"
+    },
+    {
+      "name": "btn_theme_normal_dark",
+      "value": "#FF317AF7"
+    },
+    {
+      "name": "btn_theme_pressed",
+      "value": "#CC0A59F7"
+    },
+    {
+      "name": "btn_theme_pressed_dark",
+      "value": "#CC317AF7"
+    },
+    {
+      "name": "btn_theme_disabled",
+      "value": "#FFD1D1D6"
+    },
+    {
+      "name": "btn_font_on_color",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "btn_font_disabled",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "arc_btn_privacy_bg",
+      "value": "#FFED6F21"
+    },
+    {
+      "name": "arc_btn_privacy_inactive_bg",
+      "value": "#FF3A3F4B"
+    },
+    {
+      "name": "arc_btn_font",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "panel_bg",
+      "value": "#F0000000"
+    },
+    {
+      "name": "heart_rate_icon",
+      "value": "#FFE53935"
+    }
+  ]
+}

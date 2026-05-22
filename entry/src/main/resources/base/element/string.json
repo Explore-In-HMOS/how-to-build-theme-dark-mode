@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "btn_dark_mode",
+      "value": "Dark Mode"
+    },
+    {
+      "name": "btn_light_mode",
+      "value": "Light Mode"
+    },
+    {
+      "name": "btn_privacy_on",
+      "value": "Privacy"
+    },
+    {
+      "name": "btn_privacy_off",
+      "value": "Show Data"
+    },
+    {
+      "name": "label_clock",
+      "value": "10:08"
+    },
+    {
+      "name": "label_date",
+      "value": "Wed, 07 May"
+    },
+    {
+      "name": "label_heart_rate",
+      "value": "72 bpm"
+    },
+    {
+      "name": "label_theme_icon_light",
+      "value": "●"
+    },
+    {
+      "name": "label_theme_icon_dark",
+      "value": "◐"
+    }
+  ]
+}

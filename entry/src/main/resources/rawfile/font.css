@@ -1,0 +1,9 @@
+/**
+ * Custom font declaration — loaded once by the runtime.
+ * font-family: 'WatchFont' matches the fontFamily('WatchFont') call in WatchFace.ets.
+ * Place the actual WatchFont.ttf file in resources/rawfile/.
+ */
+@font-face {
+  font-family: WatchFont;
+  src: url('/resources/rawfile/WatchFont.ttf');
+}
